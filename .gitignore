@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite3
+.vscode/
+*.log
+.DS_Store
+frontend/__pycache__/
+backend/__pycache__/
+receipt_ocr/__pycache__/
+*.tmp
+*.jpg
+*.png
+*.jpeg
